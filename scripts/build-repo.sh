@@ -15,7 +15,7 @@ case "$PUBLIC_DIRECTORY" in
         ;;
 esac
 
-for command_name in dpkg-deb dpkg-scanpackages gzip xz sha256sum; do
+for command_name in dpkg-deb dpkg-scanpackages gzip xz sha256sum python3; do
     command -v "$command_name" >/dev/null 2>&1 || {
         echo "error: missing required command: $command_name" >&2
         exit 69
@@ -70,6 +70,10 @@ done < <(find "$DEB_DIRECTORY" -type f -name '*.deb' -print0 | LC_ALL=C sort -z)
     cd "$ROOT_DIRECTORY"
     dpkg-scanpackages --multiversion debs /dev/null >"$PUBLIC_DIRECTORY/Packages"
 )
+
+python3 "$ROOT_DIRECTORY/scripts/apply-sections.py" \
+    "$ROOT_DIRECTORY/config/sections.tsv" \
+    "$PUBLIC_DIRECTORY/Packages"
 
 gzip -9n -c "$PUBLIC_DIRECTORY/Packages" >"$PUBLIC_DIRECTORY/Packages.gz"
 xz --threads=1 -9e -c "$PUBLIC_DIRECTORY/Packages" >"$PUBLIC_DIRECTORY/Packages.xz"
