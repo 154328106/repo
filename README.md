@@ -1,6 +1,6 @@
-# 154328106 RootHide Repo
+# 无言以对
 
-Personal APT repository for tested Relaxin/RootHide packages.
+Relaxin / RootHide 常用软件源。
 
 ## Source address
 
@@ -32,4 +32,3 @@ On Debian or Ubuntu with `dpkg-dev` and `xz-utils` installed:
 
 The generated repository is written to `public/` and is intentionally not
 committed.
-

@@ -76,14 +76,14 @@ xz --threads=1 -9e -c "$PUBLIC_DIRECTORY/Packages" >"$PUBLIC_DIRECTORY/Packages.
 
 release_date="$(LC_ALL=C date -Ru)"
 cat >"$PUBLIC_DIRECTORY/Release" <<EOF
-Origin: 154328106
-Label: 154328106 RootHide Repo
+Origin: 无言以对
+Label: 无言以对
 Suite: stable
 Version: 1.0
 Codename: stable
 Architectures: iphoneos-arm64e all
 Components: main
-Description: Personal packages tested with Relaxin and RootHide
+Description: 无言以对 · Relaxin / RootHide 常用软件源
 Date: $release_date
 EOF
 
@@ -104,4 +104,3 @@ append_hashes SHA256 sha256sum
 
 printf '%s\n' "$package_count" >"$PUBLIC_DIRECTORY/package-count.txt"
 echo "built repository with $package_count package(s): $PUBLIC_DIRECTORY"
-
