@@ -35,7 +35,7 @@ jobs:
           sudo apt-get install --yes dpkg-dev xz-utils
 
       - name: Validate packages and build indexes
-        run: ./scripts/build-repo.sh
+        run: bash ./scripts/build-repo.sh
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
