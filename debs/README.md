@@ -1,15 +1,12 @@
-# Package drop folder
+# 软件包存放目录
 
-Put approved, tested `.deb` files directly in this directory or in its
-subdirectories. Commit and push; GitHub Actions will rebuild the repository.
+请将已通过测试并获准发布的 `.deb` 文件直接放入此目录或其子目录中。提交并推送更改后，GitHub Actions 将自动重建仓库。
 
-Before uploading a package, confirm:
+上传软件包前，请确认：
 
-- it works with Relaxin/RootHide;
-- its architecture is `iphoneos-arm64e` or `all`;
-- its author or license permits redistribution;
-- it is not a paid or account-bound package.
+- 软件包兼容 Relaxin/RootHide；
+- 架构为 `iphoneos-arm64e` 或 `all`；
+- 作者或许可证允许重新分发；
+- 并非付费或绑定特定账户的软件包。
 
-Do not unpack or rename package identifiers merely to make an incompatible
-rootless package appear RootHide-compatible.
-
+请勿仅仅为了让不兼容 RootHide 的 Rootless 软件包看起来兼容，而对其进行解包或修改软件包标识符。
