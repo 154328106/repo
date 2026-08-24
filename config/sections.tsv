@@ -16,6 +16,7 @@ debs/图标扩展-iphoneos-arm64e.deb	依赖插件
 debs/图标遮罩-iphoneos-arm64e.deb	依赖插件
 debs/系统依赖-iphoneos-arm64e.deb	依赖插件
 debs/应用管理-iphoneos-arm64e.deb	功能插件
+debs/账号切换-iphoneos-arm64e.deb	功能插件
 debs/主题美化-iphoneos-arm64e.deb	美化插件
 debs/筑紫B丸-arm64e.deb	美化插件
 debs/专用依赖-iphoneos-arm64e.deb	依赖插件
