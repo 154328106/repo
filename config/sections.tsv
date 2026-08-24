@@ -3,6 +3,7 @@ debs/Filza管理-0.5-4-arm64e.deb	功能插件
 debs/Filza管理-1.1-9-arm64e.deb	功能插件
 debs/标签拓展-iphoneos-arm64e.deb	依赖插件
 debs/插件备份-2.0.0-arm64e.deb	功能插件
+debs/插件管理-iphoneos-arm64e.deb	功能插件
 debs/电话助手-iphoneos-arm64e.deb	功能插件
 debs/界面拓展-iphoneos-arm64e.deb	依赖插件
 debs/立体遮罩-arm64e.deb	美化插件
@@ -14,6 +15,7 @@ debs/图标遮罩-iphoneos-arm64e.deb	依赖插件
 debs/应用管理-iphoneos-arm64e.deb	功能插件
 debs/主题美化-iphoneos-arm64e.deb	美化插件
 debs/筑紫B丸-arm64e.deb	美化插件
+debs/专用依赖-iphoneos-arm64e.deb	依赖插件
 debs/状态美化-1.8-5-arm64e.deb	美化插件
 debs/状态拓展-iphoneos-arm64e.deb	依赖插件
 debs/字体拓展-iphoneos-arm64e.deb	依赖插件
