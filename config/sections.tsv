@@ -1,8 +1,4 @@
 # Filename<TAB>Section
-debs/com.spark.snowboard.effects_1.2.2-Beta2-roothide_iphoneos-arm64e.deb	依赖插件
-debs/com.spark.snowboard.fonts_1.1.0~Beta4-roothide_iphoneos-arm64e.deb	依赖插件
-debs/com.spark.snowboard.masks_1.2.2-Beta2-roothide_iphoneos-arm64e.deb	依赖插件
-debs/com.spark.snowboard.statusbar_1.1.0-Beta4-roothide_iphoneos-arm64e.deb	依赖插件
 debs/com.spark.snowboard.ui_1.3.0~Beta2-roothide_iphoneos-arm64e.deb	依赖插件
 debs/Filza管理-0.5-4-arm64e.deb	功能插件
 debs/Filza管理-1.1-9-arm64e.deb	功能插件
@@ -11,7 +7,6 @@ debs/电话助手-iphoneos-arm64e.deb	功能插件
 debs/立体遮罩-arm64e.deb	美化插件
 debs/美化依赖-6.9-9-arm64e.deb	依赖插件
 debs/强制帧率-1.0.0-arm64e.deb	功能插件
-debs/图标遮罩-iphoneos-arm64e.deb	依赖插件
 debs/应用管理-1.5.0-arm64e.deb	功能插件
 debs/主题美化-iphoneos-arm64e.deb	美化插件
 debs/筑紫B丸-arm64e.deb	美化插件
