@@ -17,7 +17,12 @@ debs/强制帧率-1.0.0-arm64e.deb	功能插件
 debs/设置拓展-iphoneos-arm64e.deb	依赖插件
 debs/图标扩展-iphoneos-arm64e.deb	依赖插件
 debs/图标遮罩-iphoneos-arm64e.deb	依赖插件
+debs/系统依赖-AltList_1.0.11arm64e.deb	依赖插件
 debs/系统依赖-iphoneos-arm64e.deb	依赖插件
+debs/系统依赖-libSandy_1.1.6-4-iphoneos-arm64e.deb	依赖插件
+debs/系统依赖-roothide core_0.1.0-iphoneos-arm64e.deb	依赖插件
+debs/系统依赖-RootHide Manager_1.3.9-arm64e.deb	依赖插件
+debs/系统依赖-rootless-compat_2.0-arm64e.deb	依赖插件
 debs/应用管理-iphoneos-arm64e.deb	功能插件
 debs/账号切换-iphoneos-arm64e.deb	功能插件
 debs/主题美化-iphoneos-arm64e.deb	美化插件
