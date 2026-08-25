@@ -4,7 +4,9 @@ debs/Filza解锁-iphoneos-arm64e.deb	功能插件
 debs/Filza文件-iphoneos-arm64e.deb	功能插件
 debs/Filza依赖--iphoneos-arm64e.deb	依赖插件
 debs/libSandy-1.1.6-4-iphoneos-arm64e.deb	依赖插件
+debs/roothide core_0.1.0-iphoneos-arm64e.deb	依赖插件
 debs/RootHide Manager_1.3.9-iphoneos-arm64e.deb	依赖插件
+debs/rootless-compat_2.0-iphoneos-arm64e.deb	依赖插件
 debs/Sileo_2.5.1-13-iphoneos-arm64e.deb	功能插件
 debs/Support-iphoneos-arm64e.deb	依赖插件
 debs/标签拓展-iphoneos-arm64e.deb	依赖插件
