@@ -2,6 +2,7 @@
 debs/Filza解锁-iphoneos-arm64e.deb	功能插件
 debs/Filza文件-iphoneos-arm64e.deb	功能插件
 debs/Filza依赖--iphoneos-arm64e.deb	依赖插件
+debs/NiceBarX_Roothide_1.0.1.8-17-arm64e.deb	美化插件
 debs/Sileo_2.5.1-13-iphoneos-arm64e.deb	功能插件
 debs/标签拓展-iphoneos-arm64e.deb	依赖插件
 debs/插件备份-2.0.0-arm64e.deb	功能插件
@@ -13,14 +14,18 @@ debs/解除温控_-iphoneos-arm64e.deb	功能插件
 debs/界面拓展-iphoneos-arm64e.deb	依赖插件
 debs/禁止更新_-iphoneos-arm64e.deb	功能插件
 debs/立体遮罩-arm64e.deb	美化插件
+debs/强制帧率_Hello 120Hz_3.3.0-3-arm64e.deb	功能插件
 debs/强制帧率-1.0.0-arm64e.deb	功能插件
 debs/设置拓展-iphoneos-arm64e.deb	依赖插件
 debs/图标扩展-iphoneos-arm64e.deb	依赖插件
 debs/图标遮罩-iphoneos-arm64e.deb	依赖插件
+debs/系统依赖_CCSupport-1.3.13-2-15-arm64e.deb	依赖插件
 debs/系统依赖_libSandy_1.1.6-4-arm64e.deb	依赖插件
 debs/系统依赖_libundirect_1.1.6-arm64e.deb	依赖插件
+debs/系统依赖_Nicebarx_6.9-9-arm64e.deb	依赖插件
 debs/系统依赖-AltList_1.0.11arm64e.deb	依赖插件
 debs/系统依赖-iphoneos-arm64e.deb	依赖插件
+debs/系统依赖-PatchLoader_0.0.8-arm64e.deb	依赖插件
 debs/系统依赖-roothide core_0.1.0-iphoneos-arm64e.deb	依赖插件
 debs/系统依赖-RootHide Manager_1.3.9-arm64e.deb	依赖插件
 debs/系统依赖-rootless-compat_2.0-arm64e.deb	依赖插件
