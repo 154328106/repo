@@ -9,15 +9,18 @@ debs/插件备份-2.0.0-arm64e.deb	功能插件
 debs/插件管理-iphoneos-arm64e.deb	功能插件
 debs/插件转换-iphoneos-arm64e.deb	功能插件
 debs/电话助手-iphoneos-arm64e.deb	功能插件
+debs/多开神器_Crane1.3.14-6-arm64e.deb	功能插件
 debs/解除温控_-iphoneos-arm64e.deb	功能插件
 debs/界面拓展-iphoneos-arm64e.deb	依赖插件
 debs/禁止更新_-iphoneos-arm64e.deb	功能插件
 debs/立体遮罩-arm64e.deb	美化插件
 debs/美化依赖-6.9-9-arm64e.deb	依赖插件
+debs/强制帧率_Hello 120Hz_3.3.0-3-arm64e.deb	功能插件
 debs/强制帧率-1.0.0-arm64e.deb	功能插件
 debs/设置拓展-iphoneos-arm64e.deb	依赖插件
 debs/图标扩展-iphoneos-arm64e.deb	依赖插件
 debs/图标遮罩-iphoneos-arm64e.deb	依赖插件
+debs/系统依赖_libundirect_1.1.6-arm64e.deb	依赖插件
 debs/系统依赖-AltList_1.0.11arm64e.deb	依赖插件
 debs/系统依赖-iphoneos-arm64e.deb	依赖插件
 debs/系统依赖-libSandy_1.1.6-4-iphoneos-arm64e.deb	依赖插件
@@ -26,6 +29,7 @@ debs/系统依赖-RootHide Manager_1.3.9-arm64e.deb	依赖插件
 debs/系统依赖-rootless-compat_2.0-arm64e.deb	依赖插件
 debs/应用管理-iphoneos-arm64e.deb	功能插件
 debs/账号切换-iphoneos-arm64e.deb	功能插件
+debs/中文汉化_Crane-arm64e.deb	功能插件
 debs/主题美化-iphoneos-arm64e.deb	美化插件
 debs/筑紫B丸-arm64e.deb	美化插件
 debs/专用依赖-iphoneos-arm64e.deb	依赖插件
