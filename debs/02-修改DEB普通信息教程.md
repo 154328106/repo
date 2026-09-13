@@ -28,9 +28,9 @@ example.plugin_1.0_iphoneos-arm64e.deb
 复制下面三行，并换成自己的文件名：
 
 ```bash
-PKG_FILE='example.plugin_1.0_iphoneos-arm64e.deb'
-EDIT_DIR='edit-example-plugin-01'
-OUTPUT_FILE='example.plugin_1.0+repo1_iphoneos-arm64e.deb'
+PKG_FILE='全透立体遮罩_1.0_iphoneos-arm64e.deb'
+EDIT_DIR='edit-插件备份-01'
+OUTPUT_FILE='图标遮罩_全透立体-arm64e.deb'
 ```
 
 - `PKG_FILE`：原包文件名；
@@ -78,7 +78,7 @@ Version: 1.0+repo1
 Name: 插件显示名称
 Maintainer: 无言以对
 Author: 原作者名称
-Icon: https://图片直链/icon.png
+Icon: https://chinesebuilding.club/pic/cydia.png
 Description: 这里填写中文介绍和兼容信息。
 ```
 
