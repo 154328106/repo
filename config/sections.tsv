@@ -12,7 +12,6 @@ debs/解除温控_2.3.5-5_iphoneos-arm64e.deb	功能插件
 debs/解锁插件_Free for Filza_1.1.9-arm64e.deb	功能插件
 debs/界面拓展-iphoneos-arm64e.deb	依赖插件
 debs/禁止更新_2.0.0-7_iphoneos-arm64e.deb	功能插件
-debs/屏蔽越狱-Umbra_RT-2.0_iphoneos-arm64e.deb	功能插件
 debs/强制帧率-1.0.0-arm64e.deb	功能插件
 debs/设置拓展-iphoneos-arm64e.deb	依赖插件
 debs/图标扩展-iphoneos-arm64e.deb	依赖插件
@@ -31,7 +30,6 @@ debs/系统依赖-CCSuport-1.3.13-2-15 debug-arm64e.deb	依赖插件
 debs/系统依赖-patchloader_0.0.8-arm64e.deb	依赖插件
 debs/系统依赖-rootless-compat_2.0-arm64e.deb	依赖插件
 debs/应用管理_AppData-1.5.0-6arm64e.deb	功能插件
-debs/越狱屏蔽_1.3.9-1arm64e.deb	功能插件
 debs/越狱商店-Sileo_2.5.1-13.deb	功能插件
 debs/账号切换-iphoneos-arm64e.deb	功能插件
 debs/中文汉化_Crane-arm64e.deb	功能插件
