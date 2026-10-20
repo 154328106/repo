@@ -1,5 +1,6 @@
 # Filename<TAB>Section
 debs/标签拓展-iphoneos-arm64e.deb	依赖插件
+debs/插件备份-2.1.0-arm64e.deb	功能插件
 debs/插件管理-iphoneos-arm64e.deb	功能插件
 debs/插件依赖_Patchers For Filza_0.5-4-1-arm64e.deb	依赖插件
 debs/插件转换_2.1.4-2-arm64e.deb	功能插件
@@ -29,6 +30,7 @@ debs/系统依赖-AltList_1.0.11arm64e.deb	依赖插件
 debs/系统依赖-CCSuport-1.3.13-2-15 debug-arm64e.deb	依赖插件
 debs/系统依赖-patchloader_0.0.8-arm64e.deb	依赖插件
 debs/系统依赖-rootless-compat_2.0-arm64e.deb	依赖插件
+debs/信号美化-Lunora_1.1.1-arm64e.deb	美化插件
 debs/应用管理_AppData-1.5.0-6arm64e.deb	功能插件
 debs/越狱商店-Sileo_2.5.1-13.deb	功能插件
 debs/账号切换-iphoneos-arm64e.deb	功能插件
