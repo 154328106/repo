@@ -4,7 +4,9 @@ debs/插件备份_2.1.1-arm64e.deb	功能插件
 debs/插件备份-2.1.0-arm64e.deb	功能插件
 debs/插件备份-2.1.1-arm64e.deb	功能插件
 debs/插件管理-iphoneos-arm64e.deb	功能插件
+debs/插件解锁-1.2-0_arm64e.deb	功能插件
 debs/插件依赖_Patchers For Filza_0.5-4-1-arm64e.deb	依赖插件
+debs/插件转换-2.1.4-5_arm64e.deb	功能插件
 debs/电话助手-正式版(Roothide)_3.2.4-arm64e.deb	功能插件
 debs/动态桌面_1.4-6-arm64e.deb	功能插件
 debs/多开神器_Crane1.3.14-6-arm64e.deb	功能插件
@@ -12,12 +14,15 @@ debs/高帧显示-Hello 120Hz_3.3.0-5-arm64e.deb	功能插件
 debs/解除温控_2.3.5-5_iphoneos-arm64e.deb	功能插件
 debs/界面拓展-iphoneos-arm64e.deb	依赖插件
 debs/禁止更新_2.0.0-7_iphoneos-arm64e.deb	功能插件
+debs/立体遮罩-1.0.1_arm64e.deb	美化插件
+debs/屏蔽越狱-2.2_arm64e.deb	功能插件
 debs/强制帧率-1.0.0-arm64e.deb	功能插件
 debs/软件砸壳-1.5-5_arm64e.deb	功能插件
 debs/设置拓展-iphoneos-arm64e.deb	依赖插件
 debs/图标扩展-iphoneos-arm64e.deb	依赖插件
 debs/图标遮罩-iphoneos-arm64e.deb	依赖插件
 debs/文件管理_Filza_4.0.1-5-arm64e.deb	功能插件
+debs/系统清理-7.10.0_arm64e.deb	功能插件
 debs/系统依赖_Ellekit_1.2-1-arm64e.deb	依赖插件
 debs/系统依赖_libSandy_1.1.6-4-arm64e.deb	依赖插件
 debs/系统依赖_libundirect_1.1.6-arm64e.deb	依赖插件
@@ -30,6 +35,8 @@ debs/系统依赖-rootless-compat_2.0-arm64e.deb	依赖插件
 debs/相册增强-0.0.6-5_arm64e.deb	功能插件
 debs/信号美化-Lunora_1.1.1-arm64e.deb	美化插件
 debs/应用管理_AppData-1.5.0-6arm64e.deb	功能插件
+debs/应用管理-1.5.0-6_arm64e.deb	功能插件
+debs/越狱商店-2.5.1-15_arm64e.deb	功能插件
 debs/账号切换-iphoneos-arm64e.deb	功能插件
 debs/中文汉化_Crane-arm64e.deb	功能插件
 debs/重力图标_0.1.1-arm64e.deb	功能插件
@@ -38,3 +45,4 @@ debs/筑紫B丸-arm64e.deb	美化插件
 debs/专用依赖-iphoneos-arm64e.deb	依赖插件
 debs/状态拓展-iphoneos-arm64e.deb	依赖插件
 debs/字体拓展-iphoneos-arm64e.deb	依赖插件
+debs/组件依赖-6.9-9_arm64e.deb	依赖插件
